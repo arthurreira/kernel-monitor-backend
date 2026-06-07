@@ -1,4 +1,4 @@
-# 🧠 Kernel Monitor Backend
+#  Kernel Monitor Backend
 
 > Real-time Linux kernel monitor using eBPF + local AI. Ask your kernel what it's doing.
 
